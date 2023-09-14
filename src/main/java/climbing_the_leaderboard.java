@@ -19,7 +19,7 @@ public class climbing_the_leaderboard {
          * The function accepts following parameters:
          *  1. INTEGER_ARRAY ranked
          *  2. INTEGER_ARRAY player
-         * 
+         *
          * sample input
          * 3
             291 287 286
